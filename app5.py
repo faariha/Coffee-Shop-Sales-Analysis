@@ -82,7 +82,7 @@ st.title("Coffee Shop Sales Analysis")
 
 # data = pd.read_csv(uploaded_file)
 # Temporary placeholder for the uploaded file - Update path as required
-data = pd.read_csv('D:\Others\Imp Docs\Comilla University Datathon\Coffee_Shop_Sales.csv')
+data = pd.read_csv('Coffee_Shop_Sales.csv')
 
 # Calculate Revenue after loading the data
 if 'transaction_qty' in data.columns and 'unit_price' in data.columns:
