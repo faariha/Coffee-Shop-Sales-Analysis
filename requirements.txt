@@ -4,4 +4,5 @@ matplotlib
 plotly
 altair
 seaborn
-pillow==8.4.0
+pillow==9.0.0
+
