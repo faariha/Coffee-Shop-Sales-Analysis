@@ -1,7 +1,9 @@
-streamlit==1.24.0
-pandas==1.5.3
-plotly==5.15.0
-matplotlib==3.7.2
-seaborn==0.12.2
-altair==5.1.1
-pillow==9.0.1
+--no-use-pep517
+streamlit
+pandas
+matplotlib
+plotly
+altair
+seaborn
+pillow==8.4.0
+
